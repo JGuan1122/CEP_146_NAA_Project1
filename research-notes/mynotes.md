@@ -1,4 +1,4 @@
-\## Notes on worms:
+## Notes on worms:
 
 
 
@@ -15,6 +15,7 @@
 
 
 -Attacks other computers in the network the host computer is in, and grows exponentially with more computers being infected with the worm.
+
 
 
 
