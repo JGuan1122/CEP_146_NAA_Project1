@@ -18,3 +18,6 @@ Repository used to store CEP 146 Project 1
 **slides-contents**: for storing images and other media we will use for our video.
 
 **sources.md**: *this is the file for sources of our research, please update the file* **WHENEVER** *you have used content from a source*.
+
+
+[Project Video](https://youtu.be/eU3cjqaPx-Q) <- Click this to watch the video
